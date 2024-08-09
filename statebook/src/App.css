@@ -1,0 +1,12 @@
+.text-center{
+    background-color: aqua;
+}
+.count{
+    background-color: beige;
+    text-align: center;
+}
+.bt{
+    margin-left: 100px;
+    border-radius: 10px;
+    border: 2px solid red;
+}
